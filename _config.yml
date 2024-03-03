@@ -104,4 +104,4 @@ theme: anzhiyu
 deploy:
   type: git
   repo: git@github.com:3Wsky/3Wsky.github.io.git
-  branch: main
+  branch: master
